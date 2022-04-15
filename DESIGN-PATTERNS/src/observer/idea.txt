@@ -1,0 +1,5 @@
+Members:
+    - Can subscribe themselves to an anime series
+
+Bot:
+    - System fetches the latest episodes and notify title for potential subscribers
